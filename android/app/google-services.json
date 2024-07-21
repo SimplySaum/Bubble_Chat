@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193605722032",
+    "project_id": "secondtry-3e160",
+    "storage_bucket": "secondtry-3e160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193605722032:android:843b670342a3351aeac075",
+        "android_client_info": {
+          "package_name": "com.example.secondtry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBELotPdZGoWCIE8Q6PDqzCmxsHjcgN5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
