@@ -1,4 +1,4 @@
-![Banner](./banner 2.png)
+![Banner](./banner.png)
 
 # secondtry
 
